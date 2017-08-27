@@ -1,0 +1,14 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+
+! GFW
+||www.easybib.com
+
+! Bilibili
+||bangumi.bilibili.com
+||*.acgvideo.com
+||push-msg.bilibili.com:8095/sub
+||broadcast.chat.bilibili.com/sub
+||pixel.ad.mlnadvertising.com
+||comment.bilibili.com
+||cm.bilibili.com
