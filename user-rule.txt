@@ -2,13 +2,40 @@
 ! See https://adblockplus.org/en/filter-cheatsheet
 
 ! GFW
-||www.easybib.com
+||www.easybib.com^
 
 ! Bilibili
-||bangumi.bilibili.com
-||*.acgvideo.com
+||bangumi.bilibili.com^
+||*.acgvideo.com^
 ||push-msg.bilibili.com:8095/sub
 ||broadcast.chat.bilibili.com/sub
-||pixel.ad.mlnadvertising.com
-||comment.bilibili.com
-||cm.bilibili.com
+||pixel.ad.mlnadvertising.com^
+||comment.bilibili.com^
+||cm.bilibili.com^
+
+! Research related
+
+! Reference.com
+||*.reference.com^
+||images.iacpublishinglabs.com^
+
+
+! Game related
+
+\.*game.*\^
+\[game].com\^
+
+||*.minecraft.net^
+
+! Ubisoft
+||ubi.com^
+||ubisoft.com^
+||*.ubisoft.com^
+||cdn.hommk.com^
+||*.ubi.com^
+||game-rainbow6.ubi.com^
+
+! For anyone who still want to play this stupid site
+||4399.com^
+||*.4399.com^
+||*.5054399.com^
